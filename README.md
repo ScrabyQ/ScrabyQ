@@ -18,6 +18,9 @@
 ![Unity](https://img.shields.io/badge/-unity-000000?logo=unity&style=for-the-badge)
 
 ### Summary
-- 🔭 I’m currently working on [Golden Resource Game](https://goldres.ru/)
-- 🌱 I’m currently learning C# and Unity
-- 📫 Feel free to contact me in [telegram](https://t.me/scrabyq)
+ 🔭 I’m currently working on
+- [Golden Resource Game](https://goldres.ru/)
+- Trying to help the community with open source projects
+  
+🌱 I’m currently learning C# and Unity  
+📫 Feel free to contact me in [telegram](https://t.me/scrabyq)  
