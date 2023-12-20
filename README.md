@@ -1,3 +1,6 @@
+<!-- Capsule Render Header -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+
 # Hi there 👋
 
 ## My name is Sergey, I'm a developer :)
@@ -16,9 +19,11 @@
 ![PM2](https://img.shields.io/badge/-pm2-290376?logo=pm2&style=for-the-badge)
 ![Yandex Cloud](https://img.shields.io/badge/-yandex%20cloud-fff?logo=yandex-cloud&style=for-the-badge)
 
+
 ### In progress:
 ![C#](https://img.shields.io/badge/-c%23-9a4f96?logo=csharp&logoColor=white&style=for-the-badge)
 ![Unity](https://img.shields.io/badge/-unity-000000?logo=unity&style=for-the-badge)
+
 
 ### Summary
  🔭 I’m currently working on
@@ -27,3 +32,13 @@
   
 🌱 I’m currently learning C# and Unity  
 📫 Feel free to contact me in [telegram](https://t.me/scrabyq)  
+
+<!-- Stats -->
+[![Sergey's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=scrabyq&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/scrabyq/)
+
+<div width="100%" align="center">
+  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scrabyq&theme=transparent"/>
+</div>
+
+<!-- Bottom Header -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
