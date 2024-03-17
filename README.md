@@ -36,9 +36,9 @@
 <!-- Stats -->
 <div style="display: flex; flex-direction: row;">
 <div width="100%" >
-  <img  src="https://leetcode-stats-six.vercel.app/?username=ScrabyQ&theme=dark"/>
+  <img src="https://leetcode-stats-six.vercel.app/?username=ScrabyQ&theme=dark"/>
 </div>
-<div width="100%" align="center">
+<div width="100%">
   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scrabyq&theme=transparent"/>
 </div>
 
