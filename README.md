@@ -34,13 +34,17 @@
 📫 Feel free to contact me in [telegram](https://t.me/scrabyq)  
 
 <!-- Stats -->
-[![Sergey's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=scrabyq&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/scrabyq/)
-
+<div style="display: flex; flex-direction: row;">
+<div width="100%" >
+  <img  src="https://leetcode-stats-six.vercel.app/?username=ScrabyQ&theme=dark"/>
+</div>
 <div width="100%" align="center">
   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scrabyq&theme=transparent"/>
 </div>
 
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ScrabyQ&theme=dark)](https://github.com/ScrabyQ)
+</div>
+
+[![Sergey's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=scrabyq&bg_color=0d1117&color=708090&line=139ae1&point=ffffff&area=true&hide_border=true)](https://github.com/scrabyq/)
 
 <!-- Bottom Header -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
