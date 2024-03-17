@@ -40,5 +40,7 @@
   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=scrabyq&theme=transparent"/>
 </div>
 
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=ScrabyQ&theme=dark)](https://github.com/ScrabyQ)
+
 <!-- Bottom Header -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
